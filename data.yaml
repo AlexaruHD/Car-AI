@@ -1,0 +1,13 @@
+train: C:\Users\Alex\Desktop\Proiect AI\train\images
+val: C:\Users\Alex\Desktop\Proiect AI\valid\images
+test: C:\Users\Alex\Desktop\Proiect AI\test\images
+
+nc: 4
+names: ['ford', 'mazda', 'mercedes', 'opel']
+
+roboflow:
+  workspace: proiect
+  project: proiect-y1ozv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/proiect/proiect-y1ozv/dataset/1
